@@ -1,128 +1,23 @@
-[
-    {
-    "name": "http://lorempixel.com/400/200/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    { 
-    "name": "http://lorempixel.com/400/200/",
-    "brand" :"Nokia",
-    "price" : "2500",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    {
-    "name": "http://lorempixel.com/400/200/sports/1/",
-    "brand" :"Nokia",
-    "price" : "2700",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    {
-    "name": "http://lorempixel.com/400/200/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    {
-    "name": "http://lorempixel.com/400/200/sports/3/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    {
-    "name": "http://lorempixel.com/400/200/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    {
-    "name": "http://lorempixel.com/400/200/sports/2/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    {
-    "name": "http://lorempixel.com/400/200/sports/3/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    {
-    "name": "http://lorempixel.com/400/200/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    {
-    "name": "http://lorempixel.com/400/200/sports/3/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-     {
-    "name": "http://lorempixel.com/400/200/sports/1/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-     {
-    "name": "http://lorempixel.com/400/200/sports/1/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    {
-    "name": "http://lorempixel.com/400/200/sports/1/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    {
-    "name": "http://lorempixel.com/400/200/sports/1/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    {
-    "name": "http://lorempixel.com/400/200/sports/1/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    {
-    "name": "http://lorempixel.com/400/200/sports/1/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    {
-    "name": "http://lorempixel.com/400/200/sports/1/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    },
-    {
-    "name": "http://lorempixel.com/400/200/sports/1/",
-    "brand" :"Nokia",
-    "price" : "3000",
-    "type" : "Smart",
-    "os"   : "Android"
-    }
-]
+[{"name": "http://lorempixel.com/400/200/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/","brand" :"Nokia","price" : "2500","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/sports/1/","brand" :"Nokia","price" : "2700","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/sports/3/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/sports/2/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/sports/3/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android" },
+{"name": "http://lorempixel.com/400/200/sports/3/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/sports/1/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/sports/1/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/sports/1/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/sports/1/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android" },
+{"name": "http://lorempixel.com/400/200/sports/1/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/sports/1/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/sports/1/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/sports/1/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"}
+{"name": "http://lorempixel.com/400/200/sports/1/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android" },
+{"name": "http://lorempixel.com/400/200/sports/1/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/sports/1/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/sports/1/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"},
+{"name": "http://lorempixel.com/400/200/sports/1/","brand" :"Nokia","price" : "3000","type" : "Smart","os"   : "Android"}]
