@@ -1,1 +1,107 @@
-{"name":"Json","tagline":"","body":"### Welcome to GitHub Pages.\r\nThis automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.\r\n\r\n### Designer Templates\r\nWe’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.\r\n\r\n### Creating pages manually\r\nIf you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.\r\n\r\n### Authors and Contributors\r\nYou can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+"snappedPoints": [
+    {
+        "location": {
+            "latitude": -35.2784167,
+            "longitude": 149.1294692
+        },
+        "originalIndex": 0,
+        "placeId": "ChIJoR7CemhNFmsRQB9QbW7qABM"
+},
+    {
+        "location": {
+            "latitude": -35.280321693840129,
+            "longitude": 149.12908274880189
+        },
+        "originalIndex": 1,
+        "placeId": "ChIJiy6YT2hNFmsRkHZAbW7qABM"
+},
+    {
+        "location": {
+            "latitude": -35.2803415,
+            "longitude": 149.1290788
+        },
+        "placeId": "ChIJiy6YT2hNFmsRkHZAbW7qABM"
+},
+    {
+        "location": {
+            "latitude": -35.2803415,
+            "longitude": 149.1290788
+        },
+        "placeId": "ChIJI2FUTGhNFmsRcHpAbW7qABM"
+},
+    {
+        "location": {
+            "latitude": -35.280451499999991,
+            "longitude": 149.1290784
+        },
+        "placeId": "ChIJI2FUTGhNFmsRcHpAbW7qABM"
+},
+    {
+        "location": {
+            "latitude": -35.2805167,
+            "longitude": 149.1290879
+        },
+        "placeId": "ChIJI2FUTGhNFmsRcHpAbW7qABM"
+},
+    {
+        "location": {
+            "latitude": -35.2805901,
+            "longitude": 149.1291104
+        },
+        "placeId": "ChIJI2FUTGhNFmsRcHpAbW7qABM"
+},
+    {
+        "location": {
+            "latitude": -35.2805901,
+            "longitude": 149.1291104
+        },
+        "placeId": "ChIJW9R7smlNFmsRMH1AbW7qABM"
+},
+    {
+        "location": {
+            "latitude": -35.280734599999995,
+            "longitude": 149.1291517
+        },
+        "placeId": "ChIJW9R7smlNFmsRMH1AbW7qABM"
+},
+    {
+        "location": {
+            "latitude": -35.2807852,
+            "longitude": 149.1291716
+        },
+        "placeId": "ChIJW9R7smlNFmsRMH1AbW7qABM"
+},
+    {
+        "location": {
+            "latitude": -35.2808499,
+            "longitude": 149.1292099
+        },
+        "placeId": "ChIJW9R7smlNFmsRMH1AbW7qABM"
+},
+    {
+        "location": {
+            "latitude": -35.280923099999995,
+            "longitude": 149.129278
+        },
+        "placeId": "ChIJW9R7smlNFmsRMH1AbW7qABM"
+},
+    {
+        "location": {
+            "latitude": -35.280960897210818,
+            "longitude": 149.1293250692261
+        },
+        "originalIndex": 2,
+        "placeId": "ChIJW9R7smlNFmsRMH1AbW7qABM"
+},
+...results truncated...
+    {
+        "location": {
+            "latitude": -35.284728724835304,
+            "longitude": 149.12835061713685
+        },
+        "originalIndex": 7,
+        "placeId": "ChIJW5JAZmpNFmsRegG0-Jc80sM"
+}
+]
+}
